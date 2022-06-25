@@ -1,0 +1,1 @@
+This is a simple script that accepts an array of country codes using cca2 format and return the flag emojies, as an array.  
