@@ -1,6 +1,6 @@
 {
   "name": "countryflagcca2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Returns a flag emoji for a given cca2 code",
   "main": "index.js",
   "scripts": {
